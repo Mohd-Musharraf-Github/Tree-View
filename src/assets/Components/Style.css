@@ -1,0 +1,17 @@
+
+
+.headline{
+    position: relative;
+    bottom: 50px;
+}
+.tree-items{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.arrow{
+    position: relative;
+    bottom: 36px;
+    left: 40px;
+}
